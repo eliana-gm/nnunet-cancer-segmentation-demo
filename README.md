@@ -1,7 +1,7 @@
 
 # Cancer Nuclei Segmentation using nnU-Net
 
-This project demonstrates **nuclear segmentation on histopathological images** using the [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), a powerful self-configuring deep learning model for biomedical image segmentation. Built as part of an academic research project, this codebase is tailored to highlight machine learning, image processing, and medical data preparation — aligned with real-world healthcare AI workflows.
+This project demonstrates **nuclear segmentation on histopathological images** using the [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), a powerful self-configuring deep learning model for biomedical image segmentation. Built as part of an academic research project for an undergraduate 400-level course on AI in Medical Imaging, this codebase is tailored to highlight machine learning, image processing, and medical data preparation — aligned with real-world healthcare AI workflows.
 
 ## Summary
 
