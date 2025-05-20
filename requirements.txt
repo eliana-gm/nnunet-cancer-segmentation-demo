@@ -1,0 +1,8 @@
+torch
+numpy
+opencv-python
+matplotlib
+nibabel
+pillow
+tiatooolbox
+scikit-image
