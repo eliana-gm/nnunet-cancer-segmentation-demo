@@ -3,8 +3,6 @@
 
 This project demonstrates **nuclear segmentation on histopathological images** using the [nnU-Net](https://github.com/MIC-DKFZ/nnUNet), a powerful self-configuring deep learning model for biomedical image segmentation. Built as part of an academic research project, this codebase is tailored to highlight machine learning, image processing, and medical data preparation — aligned with real-world healthcare AI workflows.
 
-> Built to support a job application to PulseImaging.AI and CWRU for a medical imaging software engineering co-op.
-
 ## Summary
 
 - **Dataset:** MoNuSeg 2018 (multi-organ nuclei segmentation)
