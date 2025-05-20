@@ -4,7 +4,7 @@ This project depends on the [nnU-Net v2](https://github.com/MIC-DKFZ/nnUNet) fra
 
 nnU-Net is a standalone, self-configuring deep learning pipeline that handles preprocessing, training, and inference. This repository assumes you have nnU-Net installed locally, but does not include it directly.
 
-## 🛠 Installation Instructions
+## Installation Instructions
 
 To install `nnU-Net` (v2) and make it available to the CLI:
 
