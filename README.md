@@ -13,16 +13,16 @@ This project demonstrates **nuclear segmentation on histopathological images** u
 ## Structure
 
 nnunet-cancer-segmentation-demo/
-|-- prepare_data.py        # Converts raw MoNuSeg images + XML to NIfTI
-|-- train_unet.py          # Launches nnUNet preprocessing + training
-|-- requirements.txt       # Python dependencies
-|-- dataset/
-|   |-- MoNuSeg/           # Place your dataset here
-│   |-- README.md          # Instructions for dataset setup
-|-- gui/
-|   |-- viewer.py          # PyQt5 GUI for viewing image + mask overlays
-|-- assets/                # Add Sample predictions, masks, screenshots here
-|__ README.md              # This file
+├── prepare_data.py # Converts raw MoNuSeg images + XML to NIfTI
+├── train_unet.py # Launches nnUNet preprocessing + training
+├── requirements.txt # Python dependencies
+├── dataset/
+│ ├── MoNuSeg/ # Place your dataset here
+│ └── README.md # Instructions for dataset setup
+├── gui/
+│ └── viewer.py # PyQt5 GUI for viewing image + mask overlays
+├── assets/ # Add sample predictions, masks, screenshots here
+└── README.md # This file
 
 ## How-To: Quickstart
 
